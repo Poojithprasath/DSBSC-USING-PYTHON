@@ -60,7 +60,8 @@ plt.plot(t,s)
 
 ## Tablular Column
 
-<img width="1524" height="700" alt="image" src="https://github.com/user-attachments/assets/7155537e-dac7-4a0e-bbb7-53408b74907a" />
+![WhatsApp Image 2025-11-28 at 5 50 19 PM](https://github.com/user-attachments/assets/e280a0fd-00fb-471a-b052-8de0f0c8f9fd)
+
 
 
 ## Result
